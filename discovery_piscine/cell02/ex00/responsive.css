@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+box-sizing: border-box;
+}
+
+div {
+      border-style: solid;
+  }
+
+.column {
+float: left;
+width: 50%;
+padding: 10px;
+height: 100vh; 
+}
